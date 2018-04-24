@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Created by chenjk on 2018/4/23.
  */
-public class Sort {
+public class SortMain {
 
     private static List<String> names = Arrays.asList("peter", "anna", "mike", "xenia");
 

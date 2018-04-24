@@ -13,5 +13,6 @@ public class Main {
         };
         System.out.println(formula.calculate(100));
         System.out.println(formula.sqrt(16));
+//        Formula formula2 = (a) -> sqrt(a * 100); //不能被调用
     }
 }
